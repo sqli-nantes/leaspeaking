@@ -1,3 +1,6 @@
+# CE REPO EST DESORMAIS DEPRECATED LA SUITE DES AVENTURES DE LEA SE PASSE ICI
+https://github.com/naoned-makers/leaspeaking
+
 # leaspeaking
 Module de discussion par tweet pour Léa
 
